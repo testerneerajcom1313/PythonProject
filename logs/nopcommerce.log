@@ -1,0 +1,80 @@
+25-Jun-26 03:50:02 - root - INFO - ***********Test_01_Admin_Login********************
+25-Jun-26 03:50:02 - root - INFO - ************verification of title of login page*********************
+25-Jun-26 03:50:04 - root - INFO - ***********Title matched**********************
+25-Jun-26 03:50:07 - root - INFO - ************Test_valid_login**********************
+25-Jun-26 06:34:47 - root - INFO - ***********Test_01_Admin_Login********************
+25-Jun-26 06:34:47 - root - INFO - ************verification of title of login page*********************
+25-Jun-26 06:34:48 - root - INFO - ***********Title matched**********************
+25-Jun-26 06:34:51 - root - INFO - ************Test_valid_login**********************
+25-Jun-26 06:36:00 - root - INFO - ***********Test_01_Admin_Login********************
+25-Jun-26 06:36:00 - root - INFO - ************verification of title of login page*********************
+25-Jun-26 06:36:14 - root - INFO - ***********Title matched**********************
+25-Jun-26 06:36:18 - root - INFO - ************Test_valid_login**********************
+25-Jun-26 06:37:28 - root - INFO - ***********Test_01_Admin_Login********************
+25-Jun-26 06:37:28 - root - INFO - ************verification of title of login page*********************
+25-Jun-26 06:37:30 - root - INFO - ***********Title matched**********************
+25-Jun-26 06:37:33 - root - INFO - ************Test_valid_login**********************
+25-Jun-26 06:38:01 - root - INFO - ***********Test_01_Admin_Login********************
+25-Jun-26 06:38:01 - root - INFO - ************verification of title of login page*********************
+25-Jun-26 06:38:02 - root - INFO - ***********Title matched**********************
+25-Jun-26 06:38:05 - root - INFO - ************Test_valid_login**********************
+25-Jun-26 07:11:46 - root - INFO - ***********Test_01_Admin_Login********************
+25-Jun-26 07:11:46 - root - INFO - ************verification of title of login page*********************
+25-Jun-26 07:11:48 - root - INFO - ***********Title matched**********************
+25-Jun-26 07:11:51 - root - INFO - ************Test_valid_login**********************
+25-Jun-26 09:19:13 - root - INFO - ***********Test_01_Admin_Login********************
+25-Jun-26 09:19:13 - root - INFO - ************verification of title of login page*********************
+25-Jun-26 09:19:21 - root - INFO - ***********Title not matched**********************
+25-Jun-26 09:19:24 - root - INFO - ************Test_valid_login**********************
+25-Jun-26 09:21:55 - root - INFO - ***********Test_01_Admin_Login********************
+25-Jun-26 09:21:55 - root - INFO - ************verification of title of login page*********************
+25-Jun-26 09:22:01 - root - INFO - ***********Title not matched**********************
+25-Jun-26 09:22:05 - root - INFO - ************Test_valid_login**********************
+25-Jun-26 09:23:35 - root - INFO - ***********Test_01_Admin_Login********************
+25-Jun-26 09:23:35 - root - INFO - ************verification of title of login page*********************
+25-Jun-26 09:23:38 - root - INFO - ***********Title not matched**********************
+25-Jun-26 09:23:41 - root - INFO - ************Test_valid_login**********************
+25-Jun-26 09:26:12 - root - INFO - ***********Test_01_Admin_Login********************
+25-Jun-26 09:26:12 - root - INFO - ************verification of title of login page*********************
+25-Jun-26 09:26:15 - root - INFO - ***********Title not matched**********************
+25-Jun-26 09:26:19 - root - INFO - ************Test_valid_login**********************
+25-Jun-26 09:27:19 - root - INFO - ***********Test_01_Admin_Login********************
+25-Jun-26 09:27:19 - root - INFO - ************verification of title of login page*********************
+25-Jun-26 09:27:21 - root - INFO - ***********Title not matched**********************
+25-Jun-26 09:27:25 - root - INFO - ************Test_valid_login**********************
+25-Jun-26 09:28:46 - root - INFO - ***********Test_01_Admin_Login********************
+25-Jun-26 09:28:46 - root - INFO - ************verification of title of login page*********************
+25-Jun-26 09:28:50 - root - INFO - ***********Title not matched**********************
+25-Jun-26 09:28:54 - root - INFO - ************Test_valid_login**********************
+25-Jun-26 09:33:13 - root - INFO - ***********Test_01_Admin_Login********************
+25-Jun-26 09:33:13 - root - INFO - ************verification of title of login page*********************
+25-Jun-26 09:33:16 - root - INFO - ***********Title not matched**********************
+25-Jun-26 09:33:19 - root - INFO - ************Test_valid_login**********************
+25-Jun-26 09:33:47 - root - INFO - ***********Test_01_Admin_Login********************
+25-Jun-26 09:33:47 - root - INFO - ************verification of title of login page*********************
+25-Jun-26 09:33:50 - root - INFO - ***********Title not matched**********************
+25-Jun-26 09:33:59 - root - INFO - ************Test_valid_login**********************
+25-Jun-26 09:35:52 - root - INFO - ***********Test_01_Admin_Login********************
+25-Jun-26 09:35:52 - root - INFO - ************verification of title of login page*********************
+25-Jun-26 09:35:53 - root - INFO - ***********Title not matched**********************
+25-Jun-26 09:35:57 - root - INFO - ************Test_valid_login**********************
+25-Jun-26 09:37:00 - root - INFO - ***********Test_01_Admin_Login********************
+25-Jun-26 09:37:00 - root - INFO - ************verification of title of login page*********************
+25-Jun-26 09:37:01 - root - INFO - ***********Title not matched**********************
+25-Jun-26 09:37:04 - root - INFO - ************Test_valid_login**********************
+25-Jun-26 09:41:30 - root - INFO - ***********Test_01_Admin_Login********************
+25-Jun-26 09:41:30 - root - INFO - ************verification of title of login page*********************
+25-Jun-26 09:41:32 - root - INFO - ***********Title not matched**********************
+25-Jun-26 09:41:35 - root - INFO - ************Test_valid_login**********************
+30-Jun-26 08:11:40 - root - INFO - ***********Test_01_Admin_Login********************
+30-Jun-26 08:11:40 - root - INFO - ************verification of title of login page*********************
+30-Jun-26 08:11:41 - root - INFO - ***********Title not matched**********************
+30-Jun-26 08:11:44 - root - INFO - ************Test_valid_login**********************
+30-Jun-26 08:20:43 - root - INFO - ***********Test_01_Admin_Login********************
+30-Jun-26 08:20:43 - root - INFO - ************verification of title of login page*********************
+30-Jun-26 08:20:45 - root - INFO - ***********Title not matched**********************
+30-Jun-26 08:20:49 - root - INFO - ************Test_valid_login**********************
+30-Jun-26 21:40:33 - root - INFO - ***********Test_01_Admin_Login********************
+30-Jun-26 21:40:33 - root - INFO - ************verification of title of login page*********************
+30-Jun-26 21:40:35 - root - INFO - ***********Title not matched**********************
+30-Jun-26 21:40:38 - root - INFO - ************Test_valid_login**********************
